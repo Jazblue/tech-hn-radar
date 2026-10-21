@@ -1,0 +1,1266 @@
+{
+  "top_stories": [
+    {
+      "id": "50180873",
+      "title": "Updated PHP version released to GitHub",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 130,
+      "time": "2026-10-21T13:45:33+00:00",
+      "desc": 29,
+      "type": "top"
+    },
+    {
+      "id": "50180943",
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "url": "https://www.php.net/index.php",
+      "score": 88,
+      "time": "2026-10-21T13:50:05+00:00",
+      "desc": 11,
+      "type": "top"
+    },
+    {
+      "id": "50177916",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "score": 433,
+      "time": "2026-10-21T09:08:08+00:00",
+      "desc": 200,
+      "type": "top"
+    },
+    {
+      "id": "50179706",
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "score": 122,
+      "time": "2026-10-21T12:22:39+00:00",
+      "desc": 57,
+      "type": "top"
+    },
+    {
+      "id": "50180836",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 18,
+      "time": "2026-10-21T13:43:19+00:00",
+      "desc": 2,
+      "type": "top"
+    },
+    {
+      "id": "50180444",
+      "title": "Most advice is right for the person giving it",
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "score": 31,
+      "time": "2026-10-21T13:17:33+00:00",
+      "desc": 15,
+      "type": "top"
+    },
+    {
+      "id": "50179857",
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "score": 28,
+      "time": "2026-10-21T12:34:46+00:00",
+      "desc": 11,
+      "type": "top"
+    },
+    {
+      "id": "50178455",
+      "title": "Whatever Happened to Fire Escapes",
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "score": 96,
+      "time": "2026-10-21T10:14:43+00:00",
+      "desc": 55,
+      "type": "top"
+    },
+    {
+      "id": "50175070",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 487,
+      "time": "2026-10-21T01:47:28+00:00",
+      "desc": 203,
+      "type": "top"
+    },
+    {
+      "id": "50172041",
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "url": "https://news-web.php.net/php.announce/509",
+      "score": 1346,
+      "time": "2026-10-20T20:15:50+00:00",
+      "desc": 564,
+      "type": "top"
+    },
+    {
+      "id": "50181175",
+      "title": "OpenAI: Patch the Planet - global response coordination as agents uncover vulns",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 3,
+      "time": "2026-10-21T14:03:43+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50150214",
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "url": "https://www.pagetable.com/303",
+      "score": 87,
+      "time": "2026-10-19T09:21:34+00:00",
+      "desc": 27,
+      "type": "top"
+    },
+    {
+      "id": "50179828",
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "url": "https://www.ncsc.nl/actueel",
+      "score": 180,
+      "time": "2026-10-21T12:31:28+00:00",
+      "desc": 64,
+      "type": "top"
+    },
+    {
+      "id": "50170593",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 859,
+      "time": "2026-10-20T18:29:09+00:00",
+      "desc": 392,
+      "type": "top"
+    },
+    {
+      "id": "50174687",
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "score": 262,
+      "time": "2026-10-21T00:45:59+00:00",
+      "desc": 116,
+      "type": "top"
+    },
+    {
+      "id": "50166579",
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "score": 1095,
+      "time": "2026-10-20T13:58:33+00:00",
+      "desc": 424,
+      "type": "top"
+    },
+    {
+      "id": "50149861",
+      "title": "The Decoherence Trap",
+      "url": "https://maevyn.codes/decoherence",
+      "score": 95,
+      "time": "2026-10-19T08:35:44+00:00",
+      "desc": 39,
+      "type": "top"
+    },
+    {
+      "id": "50168396",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 727,
+      "time": "2026-10-20T16:02:07+00:00",
+      "desc": 180,
+      "type": "top"
+    },
+    {
+      "id": "50151175",
+      "title": "The Lucrative World of Literary Scams",
+      "url": "https://www.thedial.world/articles/news/ai-book-scams",
+      "score": 26,
+      "time": "2026-10-19T11:43:35+00:00",
+      "desc": 3,
+      "type": "top"
+    },
+    {
+      "id": "50173487",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 234,
+      "time": "2026-10-20T22:21:05+00:00",
+      "desc": 112,
+      "type": "top"
+    },
+    {
+      "id": "50175059",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 162,
+      "time": "2026-10-21T01:45:07+00:00",
+      "desc": 15,
+      "type": "top"
+    },
+    {
+      "id": "50173891",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 235,
+      "time": "2026-10-20T23:04:09+00:00",
+      "desc": 183,
+      "type": "top"
+    },
+    {
+      "id": "50175185",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "score": 118,
+      "time": "2026-10-21T02:04:15+00:00",
+      "desc": 61,
+      "type": "top"
+    },
+    {
+      "id": "50169053",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "score": 365,
+      "time": "2026-10-20T16:40:24+00:00",
+      "desc": 79,
+      "type": "top"
+    },
+    {
+      "id": "50175510",
+      "title": "C# now beats Rust on WASM size",
+      "url": "https://github.com/zion-sati/NetWasm",
+      "score": 129,
+      "time": "2026-10-21T02:53:47+00:00",
+      "desc": 65,
+      "type": "top"
+    },
+    {
+      "id": "50175779",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "score": 94,
+      "time": "2026-10-21T03:36:43+00:00",
+      "desc": 55,
+      "type": "top"
+    },
+    {
+      "id": "50147799",
+      "title": "ZX Spectrum Next Laptop",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "score": 108,
+      "time": "2026-10-19T02:48:11+00:00",
+      "desc": 19,
+      "type": "top"
+    },
+    {
+      "id": "50151447",
+      "title": "Bonanza of new dates rewrites the history of the Inca",
+      "url": "https://www.science.org/content/article/bonanza-new-dates-rewrites-history-inca",
+      "score": 24,
+      "time": "2026-10-19T12:13:36+00:00",
+      "desc": 5,
+      "type": "top"
+    },
+    {
+      "id": "50165208",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "score": 586,
+      "time": "2026-10-20T12:17:28+00:00",
+      "desc": 286,
+      "type": "top"
+    },
+    {
+      "id": "50169707",
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "score": 442,
+      "time": "2026-10-20T17:25:07+00:00",
+      "desc": 541,
+      "type": "top"
+    },
+    {
+      "id": "50163277",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 2273,
+      "time": "2026-10-20T09:08:54+00:00",
+      "desc": 873,
+      "type": "top"
+    },
+    {
+      "id": "50148845",
+      "title": "Composite objects and C++26 the std:polymorphic type",
+      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+      "score": 39,
+      "time": "2026-10-19T05:54:43+00:00",
+      "desc": 29,
+      "type": "top"
+    },
+    {
+      "id": "50167028",
+      "title": "Ofcom concedes defeat in 4chan case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "score": 408,
+      "time": "2026-10-20T14:30:31+00:00",
+      "desc": 341,
+      "type": "top"
+    },
+    {
+      "id": "50180934",
+      "title": "Websites taken down across Europe ahead of critical cyber-security update",
+      "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
+      "score": 4,
+      "time": "2026-10-21T13:49:23+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50165953",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "score": 424,
+      "time": "2026-10-20T13:18:07+00:00",
+      "desc": 206,
+      "type": "top"
+    },
+    {
+      "id": "50168357",
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "score": 298,
+      "time": "2026-10-20T15:59:06+00:00",
+      "desc": 170,
+      "type": "top"
+    },
+    {
+      "id": "50165215",
+      "title": "Four Years with Decker",
+      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "score": 53,
+      "time": "2026-10-20T12:18:02+00:00",
+      "desc": 12,
+      "type": "top"
+    },
+    {
+      "id": "50151771",
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "score": 36,
+      "time": "2026-10-19T12:47:42+00:00",
+      "desc": 2,
+      "type": "top"
+    },
+    {
+      "id": "50176301",
+      "title": "Pillowfort Is Closing",
+      "url": "https://www.pillowfort.social/posts/8413273",
+      "score": 55,
+      "time": "2026-10-21T05:05:37+00:00",
+      "desc": 29,
+      "type": "top"
+    },
+    {
+      "id": "50176298",
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "url": "https://github.com/timriker/bzo",
+      "score": 34,
+      "time": "2026-10-21T05:05:19+00:00",
+      "desc": 26,
+      "type": "top"
+    },
+    {
+      "id": "50175882",
+      "title": "Setting Up SSH Keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "score": 68,
+      "time": "2026-10-21T03:51:25+00:00",
+      "desc": 41,
+      "type": "top"
+    },
+    {
+      "id": "50169955",
+      "title": "Advanced coding in low-resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "score": 86,
+      "time": "2026-10-20T17:43:11+00:00",
+      "desc": 93,
+      "type": "top"
+    },
+    {
+      "id": "50166257",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "score": 378,
+      "time": "2026-10-20T13:39:24+00:00",
+      "desc": 97,
+      "type": "top"
+    },
+    {
+      "id": "50143360",
+      "title": "To Make, or to Buy: The Economics of Decision Models",
+      "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+      "score": 55,
+      "time": "2026-10-18T17:40:56+00:00",
+      "desc": 2,
+      "type": "top"
+    },
+    {
+      "id": "50158314",
+      "title": "Does Ruby on Rails still make sense?",
+      "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
+      "score": 67,
+      "time": "2026-10-19T21:29:58+00:00",
+      "desc": 69,
+      "type": "top"
+    },
+    {
+      "id": "50168096",
+      "title": "IKEA \u2013 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "score": 189,
+      "time": "2026-10-20T15:42:45+00:00",
+      "desc": 66,
+      "type": "top"
+    },
+    {
+      "id": "50166502",
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "score": 187,
+      "time": "2026-10-20T13:53:48+00:00",
+      "desc": 98,
+      "type": "top"
+    },
+    {
+      "id": "50177911",
+      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "score": 533,
+      "time": "2026-10-21T09:07:49+00:00",
+      "desc": 601,
+      "type": "top"
+    },
+    {
+      "id": "50166794",
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "score": 201,
+      "time": "2026-10-20T14:13:49+00:00",
+      "desc": 52,
+      "type": "top"
+    },
+    {
+      "id": "50147034",
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "score": 101,
+      "time": "2026-10-19T00:43:01+00:00",
+      "desc": 58,
+      "type": "top"
+    },
+    {
+      "id": "50167583",
+      "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+      "url": "",
+      "score": 51,
+      "time": "2026-10-20T15:09:29+00:00",
+      "desc": 20,
+      "type": "top"
+    },
+    {
+      "id": "50173716",
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "score": 136,
+      "time": "2026-10-20T22:45:39+00:00",
+      "desc": 18,
+      "type": "top"
+    },
+    {
+      "id": "50179131",
+      "title": "25years of CrimeStoppers Tips to Police Leaked",
+      "url": "https://www.cbc.ca/news/investigates/canadian-crime-stoppers-tips-leaked-hack-investigation-9.7388820",
+      "score": 21,
+      "time": "2026-10-21T11:29:49+00:00",
+      "desc": 1,
+      "type": "top"
+    },
+    {
+      "id": "50165801",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "score": 350,
+      "time": "2026-10-20T13:06:22+00:00",
+      "desc": 200,
+      "type": "top"
+    },
+    {
+      "id": "50169506",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "score": 47,
+      "time": "2026-10-20T17:10:31+00:00",
+      "desc": 8,
+      "type": "top"
+    },
+    {
+      "id": "50158942",
+      "title": "An ad-free Android TV",
+      "url": "https://cretezy.com/2026/ad-free-android-tv",
+      "score": 420,
+      "time": "2026-10-19T22:32:37+00:00",
+      "desc": 182,
+      "type": "top"
+    },
+    {
+      "id": "50152886",
+      "title": "Meta's GB{2,3}00 Cluster",
+      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "score": 88,
+      "time": "2026-10-19T14:23:55+00:00",
+      "desc": 37,
+      "type": "top"
+    },
+    {
+      "id": "50167536",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "score": 452,
+      "time": "2026-10-20T15:06:08+00:00",
+      "desc": 394,
+      "type": "top"
+    },
+    {
+      "id": "50170917",
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "score": 214,
+      "time": "2026-10-20T18:51:40+00:00",
+      "desc": 125,
+      "type": "top"
+    },
+    {
+      "id": "50165484",
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "score": 189,
+      "time": "2026-10-20T12:43:05+00:00",
+      "desc": 125,
+      "type": "top"
+    },
+    {
+      "id": "50143154",
+      "title": "What the heck is /pkg?",
+      "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+      "score": 77,
+      "time": "2026-10-18T17:21:23+00:00",
+      "desc": 17,
+      "type": "top"
+    },
+    {
+      "id": "50163961",
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "score": 394,
+      "time": "2026-10-20T10:26:02+00:00",
+      "desc": 200,
+      "type": "top"
+    },
+    {
+      "id": "50170021",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "score": 110,
+      "time": "2026-10-20T17:48:29+00:00",
+      "desc": 70,
+      "type": "top"
+    },
+    {
+      "id": "50162177",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "score": 414,
+      "time": "2026-10-20T06:37:07+00:00",
+      "desc": 121,
+      "type": "top"
+    },
+    {
+      "id": "50154244",
+      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "score": 569,
+      "time": "2026-10-19T16:16:46+00:00",
+      "desc": 525,
+      "type": "top"
+    },
+    {
+      "id": "50176129",
+      "title": "Nexus-CLI \u2013 Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "url": "https://github.com/xamrayev/nexus-cli",
+      "score": 15,
+      "time": "2026-10-21T04:37:18+00:00",
+      "desc": 4,
+      "type": "top"
+    },
+    {
+      "id": "50159245",
+      "title": "How abliterated models can get you pwned",
+      "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "score": 241,
+      "time": "2026-10-19T23:08:52+00:00",
+      "desc": 136,
+      "type": "top"
+    },
+    {
+      "id": "50167732",
+      "title": "Why do we have so many meetings?",
+      "url": "https://www.nber.org/papers/w35706",
+      "score": 110,
+      "time": "2026-10-20T15:19:19+00:00",
+      "desc": 156,
+      "type": "top"
+    },
+    {
+      "id": "50171771",
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "score": 90,
+      "time": "2026-10-20T19:55:11+00:00",
+      "desc": 58,
+      "type": "top"
+    },
+    {
+      "id": "50159341",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "score": 732,
+      "time": "2026-10-19T23:22:18+00:00",
+      "desc": 211,
+      "type": "top"
+    },
+    {
+      "id": "50141581",
+      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "score": 554,
+      "time": "2026-10-18T14:48:01+00:00",
+      "desc": 160,
+      "type": "top"
+    },
+    {
+      "id": "50159616",
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "url": "https://ipinfo.io/blog/france-fridges-hack",
+      "score": 241,
+      "time": "2026-10-20T00:00:49+00:00",
+      "desc": 220,
+      "type": "top"
+    },
+    {
+      "id": "50160440",
+      "title": "Ship Your Interpreter",
+      "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+      "score": 23,
+      "time": "2026-10-20T01:57:24+00:00",
+      "desc": 18,
+      "type": "top"
+    },
+    {
+      "id": "50156779",
+      "title": "Show HN: Dovepass \u2013 can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com",
+      "score": 20,
+      "time": "2026-10-19T19:21:56+00:00",
+      "desc": 4,
+      "type": "top"
+    },
+    {
+      "id": "50160494",
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "score": 479,
+      "time": "2026-10-20T02:06:40+00:00",
+      "desc": 155,
+      "type": "top"
+    },
+    {
+      "id": "50179512",
+      "title": "The phpocalypse is the second biggest story today",
+      "url": "https://chaosguru.substack.com/p/the-phpocalypse-is-the-second-biggest",
+      "score": 4,
+      "time": "2026-10-21T12:05:22+00:00",
+      "desc": 1,
+      "type": "top"
+    },
+    {
+      "id": "50165904",
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "score": 59,
+      "time": "2026-10-20T13:14:39+00:00",
+      "desc": 3,
+      "type": "top"
+    },
+    {
+      "id": "50157865",
+      "title": "One Hash Bloom Filters",
+      "url": "https://calabro.io/ohbf",
+      "score": 150,
+      "time": "2026-10-19T20:50:08+00:00",
+      "desc": 14,
+      "type": "top"
+    },
+    {
+      "id": "50176088",
+      "title": "3.75-MWh battery system installed indoors at NY affordable housing building",
+      "url": "https://www.solarpowerworldonline.com/2026/10/3-75-mwh-battery-system-installed-indoors-at-ny-affordable-housing-building/",
+      "score": 22,
+      "time": "2026-10-21T04:28:47+00:00",
+      "desc": 2,
+      "type": "top"
+    },
+    {
+      "id": "50171528",
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php",
+      "score": 133,
+      "time": "2026-10-20T19:34:03+00:00",
+      "desc": 17,
+      "type": "top"
+    },
+    {
+      "id": "50152321",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "score": 218,
+      "time": "2026-10-19T13:36:43+00:00",
+      "desc": 114,
+      "type": "top"
+    },
+    {
+      "id": "50161144",
+      "title": "Show HN: Rouler \u2013 Steer Windows traffic per app or IP across multiple interfaces",
+      "url": "https://rouler.io/",
+      "score": 24,
+      "time": "2026-10-20T03:51:43+00:00",
+      "desc": 6,
+      "type": "top"
+    },
+    {
+      "id": "50154540",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 514,
+      "time": "2026-10-19T16:39:09+00:00",
+      "desc": 218,
+      "type": "top"
+    },
+    {
+      "id": "50171966",
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "score": 162,
+      "time": "2026-10-20T20:09:46+00:00",
+      "desc": 78,
+      "type": "top"
+    },
+    {
+      "id": "50167604",
+      "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "score": 62,
+      "time": "2026-10-20T15:10:54+00:00",
+      "desc": 7,
+      "type": "top"
+    },
+    {
+      "id": "50152466",
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "url": "https://heymaxwell.ai/",
+      "score": 132,
+      "time": "2026-10-19T13:47:56+00:00",
+      "desc": 66,
+      "type": "top"
+    },
+    {
+      "id": "50167754",
+      "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
+      "url": "",
+      "score": 245,
+      "time": "2026-10-20T15:20:35+00:00",
+      "desc": 40,
+      "type": "top"
+    },
+    {
+      "id": "50178678",
+      "title": "'A difficult line': meet the editors tackling Wikipedia's arms trade pages",
+      "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
+      "score": 6,
+      "time": "2026-10-21T10:38:14+00:00",
+      "desc": 1,
+      "type": "top"
+    },
+    {
+      "id": "50174317",
+      "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
+      "url": "https://gamowlabs.com/lab-robot-bench-v0-1",
+      "score": 14,
+      "time": "2026-10-20T23:55:03+00:00",
+      "desc": 2,
+      "type": "top"
+    },
+    {
+      "id": "50152307",
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 612,
+      "time": "2026-10-19T13:35:34+00:00",
+      "desc": 216,
+      "type": "top"
+    },
+    {
+      "id": "50161408",
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "url": "https://deathplanswitch.com/",
+      "score": 101,
+      "time": "2026-10-20T04:37:43+00:00",
+      "desc": 64,
+      "type": "top"
+    },
+    {
+      "id": "50175057",
+      "title": "Learning to live with Waymos",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "score": 43,
+      "time": "2026-10-21T01:44:34+00:00",
+      "desc": 74,
+      "type": "top"
+    },
+    {
+      "id": "50167617",
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "score": 65,
+      "time": "2026-10-20T15:11:56+00:00",
+      "desc": 50,
+      "type": "top"
+    },
+    {
+      "id": "50171793",
+      "title": "Subaru is killing off gas cars and will only sell EVs in Europe",
+      "url": "https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs/",
+      "score": 100,
+      "time": "2026-10-20T19:56:53+00:00",
+      "desc": 57,
+      "type": "top"
+    },
+    {
+      "id": "50166062",
+      "title": "Computer Chips Are the Most Magnificent Things Humanity Has Ever Made",
+      "url": "https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made",
+      "score": 35,
+      "time": "2026-10-20T13:25:57+00:00",
+      "desc": 2,
+      "type": "top"
+    },
+    {
+      "id": "50177795",
+      "title": "Anthropic disclosed an $80.7B net loss for the first half of 2026",
+      "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+      "score": 13,
+      "time": "2026-10-21T08:51:15+00:00",
+      "desc": 10,
+      "type": "top"
+    },
+    {
+      "id": "50175496",
+      "title": "Google's servers can scan what you copy in Chrome for unsafe content",
+      "url": "https://www.neowin.net/news/google-can-now-monitor-your-clipboard-in-chrome-to-check-if-you-copied-safe-content/",
+      "score": 43,
+      "time": "2026-10-21T02:52:58+00:00",
+      "desc": 7,
+      "type": "top"
+    },
+    {
+      "id": "50173907",
+      "title": "SCOTUS couldn't take up a copyright case because four justices have book deals",
+      "url": "https://news.bloomberglaw.com/ip-law/supreme-court-affirms-foreign-rights-ruling-after-lacking-quorum",
+      "score": 64,
+      "time": "2026-10-20T23:05:39+00:00",
+      "desc": 5,
+      "type": "top"
+    },
+    {
+      "id": "50150089",
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 668,
+      "time": "2026-10-19T09:05:07+00:00",
+      "desc": 148,
+      "type": "top"
+    },
+    {
+      "id": "50180920",
+      "title": "PHP Vulnerability Rated 9.2, Highest Severity; EU Recommens Shutting Down Sites",
+      "url": "https://finance.biggo.com/news/314e2cc6-2088-4681-bfc9-fbcd063bd3df",
+      "score": 4,
+      "time": "2026-10-21T13:48:45+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50153664",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "score": 415,
+      "time": "2026-10-19T15:31:34+00:00",
+      "desc": 326,
+      "type": "top"
+    },
+    {
+      "id": "50174221",
+      "title": "Upcoming Critical PHP Security Release (CVSSv4 score of 9.2)",
+      "url": "https://www.php.net/index.php",
+      "score": 20,
+      "time": "2026-10-20T23:41:12+00:00",
+      "desc": 1,
+      "type": "top"
+    },
+    {
+      "id": "50174799",
+      "title": "People sick of being spied on by their smart TV",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
+      "score": 54,
+      "time": "2026-10-21T01:00:28+00:00",
+      "desc": 11,
+      "type": "top"
+    },
+    {
+      "id": "50150434",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "score": 618,
+      "time": "2026-10-19T09:59:32+00:00",
+      "desc": 121,
+      "type": "top"
+    },
+    {
+      "id": "50158100",
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "score": 285,
+      "time": "2026-10-19T21:08:18+00:00",
+      "desc": 140,
+      "type": "top"
+    },
+    {
+      "id": "50173547",
+      "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
+      "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
+      "score": 67,
+      "time": "2026-10-20T22:26:40+00:00",
+      "desc": 13,
+      "type": "top"
+    },
+    {
+      "id": "50172246",
+      "title": "Judge Orders Meta to Name Employees Who Approved Torrenting",
+      "url": "https://torrentfreak.com/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-and-libgen/",
+      "score": 71,
+      "time": "2026-10-20T20:32:11+00:00",
+      "desc": 15,
+      "type": "top"
+    },
+    {
+      "id": "50177770",
+      "title": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
+      "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html",
+      "score": 6,
+      "time": "2026-10-21T08:48:21+00:00",
+      "desc": 1,
+      "type": "top"
+    },
+    {
+      "id": "50179201",
+      "title": "Getty Images files for US bankruptcy, advances restructuring plan",
+      "url": "https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/",
+      "score": 12,
+      "time": "2026-10-21T11:37:02+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50154029",
+      "title": "Launch HN: Laminar (YC S24) \u2013 RL-trained model that finds errors in agent traces",
+      "url": "",
+      "score": 59,
+      "time": "2026-10-19T16:00:18+00:00",
+      "desc": 28,
+      "type": "top"
+    },
+    {
+      "id": "50147233",
+      "title": "Starcraft: Ashfall",
+      "url": "https://starcraft-shooter-2026.pages.dev/",
+      "score": 577,
+      "time": "2026-10-19T01:18:02+00:00",
+      "desc": 192,
+      "type": "top"
+    },
+    {
+      "id": "50149609",
+      "title": "Shipping a LaTeX Compiler Behind an Edge App",
+      "url": "https://bhargav.dev/writing/shipping-a-latex-compiler-behind-an-edge-app",
+      "score": 13,
+      "time": "2026-10-19T07:59:50+00:00",
+      "desc": 6,
+      "type": "top"
+    },
+    {
+      "id": "50180431",
+      "title": "AI bubble could burst and take global economy with it, IMF warns",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+      "score": 5,
+      "time": "2026-10-21T13:16:43+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50177971",
+      "title": "Private key compromise of eMudhra Intermediate Certificates",
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "score": 5,
+      "time": "2026-10-21T09:18:52+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50151036",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "",
+      "score": 596,
+      "time": "2026-10-19T11:24:34+00:00",
+      "desc": 722,
+      "type": "top"
+    },
+    {
+      "id": "50149392",
+      "title": "Linux 7.3",
+      "url": "https://lwn.net/Articles/1101143/",
+      "score": 630,
+      "time": "2026-10-19T07:23:57+00:00",
+      "desc": 295,
+      "type": "top"
+    },
+    {
+      "id": "50146625",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 287,
+      "time": "2026-10-18T23:37:57+00:00",
+      "desc": 125,
+      "type": "top"
+    },
+    {
+      "id": "50154624",
+      "title": "Android apps running native on macOS",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "score": 343,
+      "time": "2026-10-19T16:45:30+00:00",
+      "desc": 191,
+      "type": "top"
+    },
+    {
+      "id": "50150927",
+      "title": "Alternatives to animal testing are finally taking off",
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "score": 344,
+      "time": "2026-10-19T11:10:54+00:00",
+      "desc": 111,
+      "type": "top"
+    },
+    {
+      "id": "50147760",
+      "title": "The Annotated VT100 Firmware (2022)",
+      "url": "https://vt100.net/dec/vt100/rom/",
+      "score": 82,
+      "time": "2026-10-19T02:40:04+00:00",
+      "desc": 6,
+      "type": "top"
+    },
+    {
+      "id": "50153225",
+      "title": "Agentic Monitoring",
+      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "score": 118,
+      "time": "2026-10-19T14:52:04+00:00",
+      "desc": 22,
+      "type": "top"
+    },
+    {
+      "id": "50153630",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "score": 359,
+      "time": "2026-10-19T15:28:24+00:00",
+      "desc": 61,
+      "type": "top"
+    },
+    {
+      "id": "50144123",
+      "title": "Silicon-photonics-enabled chip-based 3D printer (2024)",
+      "url": "https://www.nature.com/articles/s41377-024-01478-2",
+      "score": 10,
+      "time": "2026-10-18T18:56:11+00:00",
+      "desc": 0,
+      "type": "top"
+    },
+    {
+      "id": "50167657",
+      "title": "Show HN: Clerkenwell \u2013 A Handwritten Clojure Notebook",
+      "url": "https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html",
+      "score": 26,
+      "time": "2026-10-20T15:14:14+00:00",
+      "desc": 4,
+      "type": "top"
+    },
+    {
+      "id": "50175062",
+      "title": "Indian CA's private keys compromised \u2013 one of them was the number '4'",
+      "url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+      "score": 20,
+      "time": "2026-10-21T01:45:21+00:00",
+      "desc": 7,
+      "type": "top"
+    },
+    {
+      "id": "50144066",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 203,
+      "time": "2026-10-18T18:48:04+00:00",
+      "desc": 52,
+      "type": "top"
+    },
+    {
+      "id": "50148855",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "score": 169,
+      "time": "2026-10-19T05:55:31+00:00",
+      "desc": 128,
+      "type": "top"
+    },
+    {
+      "id": "50176063",
+      "title": "Ask HN: Have you observed this trend of building \"internal vibe-coding apps\"?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+      "score": 13,
+      "time": "2026-10-21T04:24:54+00:00",
+      "desc": 10,
+      "type": "top"
+    },
+    {
+      "id": "50153229",
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+      "score": 48,
+      "time": "2026-10-19T14:52:33+00:00",
+      "desc": 7,
+      "type": "top"
+    },
+    {
+      "id": "50158138",
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "score": 181,
+      "time": "2026-10-19T21:11:45+00:00",
+      "desc": 45,
+      "type": "top"
+    },
+    {
+      "id": "50173557",
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "score": 39,
+      "time": "2026-10-20T22:27:07+00:00",
+      "desc": 20,
+      "type": "top"
+    },
+    {
+      "id": "50155245",
+      "title": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "score": 256,
+      "time": "2026-10-19T17:27:11+00:00",
+      "desc": 91,
+      "type": "top"
+    }
+  ],
+  "by_area": {
+    "AI/ML": [
+      {
+        "id": "50159341",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "points": 732,
+        "time": "2026-10-19T23:22:18Z",
+        "area": "AI/ML",
+        "term": "LLM"
+      },
+      {
+        "id": "50145337",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "points": 517,
+        "time": "2026-10-18T20:48:14Z",
+        "area": "AI/ML",
+        "term": "LLM"
+      },
+      {
+        "id": "50163277",
+        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "points": 2273,
+        "time": "2026-10-20T09:08:54Z",
+        "area": "AI/ML",
+        "term": "model"
+      }
+    ],
+    "Cloud/AWS": [
+      {
+        "id": "50162712",
+        "title": "GCP Europe-West2 Outage",
+        "url": "",
+        "points": 31,
+        "time": "2026-10-20T07:56:59Z",
+        "area": "Cloud/AWS",
+        "term": "GCP"
+      }
+    ],
+    "Cybersecurity": [
+      {
+        "id": "50172041",
+        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+        "url": "https://news-web.php.net/php.announce/509",
+        "points": 1348,
+        "time": "2026-10-20T20:15:50Z",
+        "area": "Cybersecurity",
+        "term": "security"
+      },
+      {
+        "id": "50167754",
+        "title": "Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming",
+        "url": "",
+        "points": 245,
+        "time": "2026-10-20T15:20:35Z",
+        "area": "Cybersecurity",
+        "term": "CVE"
+      },
+      {
+        "id": "50176077",
+        "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+        "url": "https://jackalsyn.com/posts/php-up-2026.html",
+        "points": 180,
+        "time": "2026-10-21T04:26:56Z",
+        "area": "Cybersecurity",
+        "term": "CVE"
+      }
+    ],
+    "DevOps/Infrastructure": [],
+    "Developer tools/Emerging": []
+  },
+  "generated": "2026-10-21T14:06:00.517737+00:00"
+}
