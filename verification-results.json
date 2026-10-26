@@ -1,0 +1,86 @@
+{
+  "verificationDate": "2026-10-26T00:00:00Z",
+  "topics": [
+    {
+      "id": 1,
+      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "hnUrl": "https://news.ycombinator.com/item?id=50226882",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/",
+      "area": "Cloud / AWS",
+      "hnTitleMatch": true,
+      "hnTitle": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "hnPoints": 5,
+      "hnComments": 3,
+      "sourceVerification": "Reuters direct fetch returned 401, but article confirmed via Yahoo Finance, Investing.com, US News, and StreetInsider syndications all dated Oct 23 2026. Jassy stated on a16z podcast that AWS capacity is largely sold out through 2027 with significant 2028 commitments, driven by AI demand. Amazon planning ~$220B capex for 2026.",
+      "claimAccuracy": "Accurate. All syndicated sources confirm the core claim.",
+      "verificationStatus": "VERIFIED",
+      "confidence": "High"
+    },
+    {
+      "id": 2,
+      "title": "Apple Security Research Device",
+      "hnUrl": "https://news.ycombinator.com/item?id=50217903",
+      "sourceUrl": "https://security.apple.com/research-device/",
+      "area": "Cybersecurity",
+      "hnTitleMatch": true,
+      "hnTitle": "Apple Security Research Device",
+      "hnPoints": 108,
+      "hnComments": 48,
+      "sourceVerification": "Source page successfully extracted. Describes Apple Security Research Device Program: specially fused iPhone for iOS security research, 12-month renewable loan, shell access, custom entitlements, kernel customization. Applications open through Oct 30 2026. Vulnerabilities found must be reported to Apple; eligible for Apple Security Bounty.",
+      "claimAccuracy": "Accurate. Source confirms program details.",
+      "verificationStatus": "VERIFIED",
+      "confidence": "High"
+    },
+    {
+      "id": 3,
+      "title": "No signs of AI payoff outside the tech sector",
+      "hnUrl": "https://news.ycombinator.com/item?id=50224463",
+      "sourceUrl": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "area": "AI / ML",
+      "hnTitleMatch": true,
+      "hnTitle": "No signs of AI payoff outside the tech sector",
+      "hnPoints": 629,
+      "hnComments": 661,
+      "sourceVerification": "Apollo Daily Spark note by Torsten Slok (Chief Economist), dated Oct 24 2026, confirmed via multiple sources. Key claims: revenue per worker rising for Mag 7 but flat for S&P 493; profit margins same pattern; no AI-driven productivity growth visible; mainstream corporate America viewing token spending as cost center. Full text retrieved via web search.",
+      "claimAccuracy": "Accurate. Source content matches title and summary claims exactly.",
+      "verificationStatus": "VERIFIED",
+      "confidence": "High"
+    },
+    {
+      "id": 4,
+      "title": "Preliminary Report Oct 21st Security Incident (Railway)",
+      "hnUrl": "https://news.ycombinator.com/item?id=50211898",
+      "sourceUrl": "https://blog.railway.com/p/preliminary-report-october-security-incident",
+      "area": "DevOps / Infrastructure",
+      "hnTitleMatch": true,
+      "hnTitle": "Preliminary Report Oct 21st Security Incident",
+      "hnPoints": 36,
+      "hnComments": 8,
+      "sourceVerification": "Source successfully extracted. Published Oct 22 2026 by Jacob Cooper & Angelo Saraceno. Describes attack starting Oct 20 13:58 UTC, attacker sought AI provider API keys for distillation attacks, used abliterated models and substantial compute. Encrypted customer secrets exposed; credential rotation recommended for pre-Oct 21 signups. Attack timeline Oct 20-22.",
+      "claimAccuracy": "Accurate. Source confirms incident details, timeline, and impact.",
+      "verificationStatus": "VERIFIED",
+      "confidence": "High"
+    },
+    {
+      "id": 5,
+      "title": "The Goose Programming Language",
+      "hnUrl": "https://news.ycombinator.com/item?id=50224100",
+      "sourceUrl": "https://aardappel.github.io/goose/",
+      "area": "Developer Tools",
+      "hnTitleMatch": true,
+      "hnTitle": "The Goose Programming Language",
+      "hnPoints": null,
+      "hnComments": null,
+      "sourceVerification": "HN title confirmed via browser fetch (page title: 'The Goose Programming Language | Hacker News'). Source page successfully extracted. Goose described as memory-safe systems language with no heap allocator, GC, or lifetime annotations. Claims: 3.3x speed of idiomatic C++, 1.16x hand-optimized C++, 1.12x best safe Rust, with less memory. Uses compiler-managed data stacks instead of heap.",
+      "claimAccuracy": "Accurate. Source confirms language description and benchmark claims.",
+      "verificationStatus": "VERIFIED",
+      "confidence": "High"
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "verified": 5,
+    "partiallyVerified": 0,
+    "unverified": 0
+  }
+}
