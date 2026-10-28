@@ -1,83 +1,97 @@
 {
-  "researchDate": "2026-10-26",
-  "publicationDate": "2026-10-26",
-  "generatedTimestamp": "2026-10-26T15:08:31Z",
-  "lastUpdated": "2026-10-26T15:08:31Z",
-  "summary": "Hacker News discussion this week is dominated by AI economics and cloud capacity. AWS cloud capacity is reportedly sold out through 2027, a major AI-ROI analysis finds no measurable payoff outside the tech sector, and a platform security incident at Railway plus Apple's new security research device keep cybersecurity in focus. A new systems programming language, Goose, drew heavy developer attention.",
+  "researchDate": "2026-10-28",
+  "publicationDate": "2026-10-28",
+  "generatedTimestamp": "2026-10-28T16:30:00Z",
+  "lastUpdated": "2026-10-28T16:30:00Z",
+  "summary": "HN today features a local AI desktop app gaining traction (Hob, 171 points), an AI-agent benchmark for tax professionals, a new agent-friendly CVE feed, a critical RCE in the Atlantis IaC tool, and a debate on open source vulnerability embargoes. The cloud/DevOps/security signal is strong this cycle.",
   "biggestDiscussions": [
     {
-      "topic": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-      "area": "Cloud / AWS",
-      "shortSummary": "AWS has effectively sold out of cloud capacity through 2027, per CEO Andy Jassy. Enterprises planning migrations or capacity expansions face long lead times and may need multi-cloud strategies, underscoring the hyperscaler capex arms race driven by AI workloads.",
-      "whyItMatters": "Signals a demand-supply shock in cloud infrastructure; affects capacity planning, multi-cloud strategy, and cost for cloud teams.",
-      "hnLink": "https://news.ycombinator.com/item?id=50226882",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/",
+      "topic": "Show HN: Hob – Open-source, on-device AI desktop app",
+      "area": "Cloud",
+      "shortSummary": "A free MIT-licensed desktop app running Gemma 4 and gpt-oss models entirely locally, with sandboxed Python execution, SearXNG web search, and MCP connector support. It targets privacy-conscious engineers who want Claude/ChatGPT functionality without data egress.",
+      "whyItMatters": "Eliminates cloud AI dependency for sensitive workloads — relevant for cloud engineers managing data-residency requirements and reducing attack surface from external AI services.",
+      "hnLink": "https://news.ycombinator.com/item?id=50246238",
+      "sourceUrl": "https://github.com/FrigadeHQ/hob",
       "verificationStatus": "VERIFIED",
       "confidence": "High"
     },
     {
-      "topic": "Apple Security Research Device",
+      "topic": "Dayjob: Tax – benchmarking AI agents on 50 professional tax assignments",
+      "area": "AI",
+      "shortSummary": "A benchmark framework evaluating AI agents on 50 real-world professional tax assignments across 8 practice areas, with 1,789 files. It measures accuracy, reliability, and task completion to provide standardized scoring for agent performance on complex knowledge work.",
+      "whyItMatters": "As orgs deploy AI agents for domain-specific tasks, standardized evaluation frameworks become essential for validating agent capabilities before production use in regulated environments.",
+      "hnLink": "https://news.ycombinator.com/item?id=50275626",
+      "sourceUrl": "https://surgehq.ai/blog/dayjob-tax",
+      "verificationStatus": "VERIFIED",
+      "confidence": "High"
+    },
+    {
+      "topic": "Cve.now: A free feed of security vulnerabilities for agents",
       "area": "Cybersecurity",
-      "shortSummary": "Apple released a dedicated security research device and bounty program targeting its hardware ecosystem, with an Oct 30 2026 application deadline and 12-month loan terms. The HN community is deeply engaged, signalling where mobile/device security research is heading.",
-      "whyItMatters": "Relevant for security tooling, iOS/macOS enterprise management, and vulnerability research bounty structures.",
-      "hnLink": "https://news.ycombinator.com/item?id=50217903",
-      "sourceUrl": "https://security.apple.com/research-device/",
-      "verificationStatus": "VERIFIED",
-      "confidence": "High"
+      "shortSummary": "A real-time, free CVE feed aggregating and normalizing CVE data into machine-readable formats for AI agents and automated security tooling. Merges CVE List, CISA KEV, EPSS, and OSV into a unified feed with plain-English explanations, available as RSS/JSON/API/MCP.",
+      "whyItMatters": "Automated vulnerability management pipelines need structured, agent-friendly data. A free, no-login feed lowers the barrier for integrating CVE intelligence into CI/CD and cloud security workflows.",
+      "hnLink": "https://news.ycombinator.com/item?id=50237852",
+      "sourceUrl": "https://www.sazabi.com/blog/introducing-cve-now",
+      "verificationStatus": "PARTIALLY_VERIFIED",
+      "confidence": "Medium"
     },
     {
-      "topic": "No signs of AI payoff outside the tech sector",
-      "area": "AI / ML",
-      "shortSummary": "Apollo Wealth analysis (Torsten Slok, Oct 24 2026) finds no measurable ROI from AI outside the tech sector, contradicting the hype cycle. The top HN story with 600+ points and 660+ comments, it's a reality check that AI investments need use-case validation.",
-      "whyItMatters": "Grounds AI strategy in evidence; the comment thread is a practitioner goldmine on real AI adoption.",
-      "hnLink": "https://news.ycombinator.com/item?id=50224463",
-      "sourceUrl": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "topic": "Show HN: RCE in Atlantis (IaC approval bypass)",
+      "area": "DevOps",
+      "shortSummary": "A critical remote code execution vulnerability in Atlantis, the popular Terraform PR automation tool. The flaw allowed unreviewed terraform apply executions through a Gitea approval bypass. The vulnerable path existed since v0.28.0 (May 2024) and was patched in October 2026.",
+      "whyItMatters": "Atlantis is a cornerstone of IaC workflows. An RCE means an attacker could provision, modify, or destroy cloud resources without change control — cloud/DevOps engineers should verify their instances are patched.",
+      "hnLink": "https://news.ycombinator.com/item?id=50245574",
+      "sourceUrl": "https://medium.com/@Vulnetic-CEO/dismissed-approval-to-rce-unreviewed-terraform-apply-in-atlantis-e2a991694a41",
       "verificationStatus": "VERIFIED",
-      "confidence": "High"
+      "confidence": "Medium"
     },
     {
-      "topic": "Preliminary Report: Oct 21st Security Incident (Railway)",
-      "area": "DevOps / Infrastructure",
-      "shortSummary": "Railway published a preliminary report on a security incident spanning Oct 20-22, involving AI API key targeting and encrypted secrets exposure. A live case study in cloud platform security, incident transparency, and post-incident review.",
-      "whyItMatters": "Useful for teams running similar PaaS infrastructure or evaluating Railway; strong lesson in incident response and transparency.",
-      "hnLink": "https://news.ycombinator.com/item?id=50211898",
-      "sourceUrl": "https://blog.railway.com/p/preliminary-report-october-security-incident",
+      "topic": "Dear Open Source Developers: It's OK Not to Embargo",
+      "area": "Developer",
+      "shortSummary": "A candid piece arguing open source maintainers should not feel pressured to embargo security vulnerabilities before public disclosure. The author contends forced embargoes harm users, create unnecessary complexity, and that responsible disclosure without embargoes is better for the ecosystem.",
+      "whyItMatters": "Cloud and DevOps teams depend on open source for Kubernetes, Terraform providers, and more. Understanding the disclosure debate informs vulnerability management policies and ecosystem participation.",
+      "hnLink": "https://news.ycombinator.com/item?id=50259072",
+      "sourceUrl": "https://opensourcesecurity.io/2026/10/embargo/",
       "verificationStatus": "VERIFIED",
-      "confidence": "High"
-    },
-    {
-      "topic": "The Goose Programming Language",
-      "area": "Developer Tools",
-      "shortSummary": "A new memory-safe systems programming language, boosted by a John Carmack tweet, drew 580+ points and 360+ comments. Discussion covers performance benchmarks, design philosophy, and adoption viability.",
-      "whyItMatters": "Programming language evolution is a leading indicator of developer workflow shifts; worth watching for new dev tooling.",
-      "hnLink": "https://news.ycombinator.com/item?id=50224100",
-      "sourceUrl": "https://aardappel.github.io/goose/",
-      "verificationStatus": "VERIFIED",
-      "confidence": "High"
+      "confidence": "Medium"
     }
   ],
-  "aiWatch": "The dominant AI story is Apollo Wealth's analysis finding no measurable ROI from AI outside the tech sector — a direct challenge to the hype cycle. It sparked one of the largest HN discussions of the period (600+ points, 660+ comments), with practitioners debating real-world adoption.",
-  "cybersecurityWatch": "Two notable items: Apple's new Security Research Device and bounty program (application deadline Oct 30 2026), and Railway's preliminary security incident report covering an attack targeting AI API keys with encrypted secrets exposure.",
-  "awsCloudWatch": "AWS cloud capacity reportedly sold out through 2027 per CEO Andy Jassy — a significant signal for capacity planning and multi-cloud strategy. For cloud engineers, this underscores long lead times for large-scale migrations.",
+  "aiWatch": "The top AI discussion is Dayjob: Tax, a benchmark evaluating AI agents on 50 real-world tax assignments. This signals growing maturity in agent evaluation — moving beyond chat benchmarks toward domain-specific task performance. Meanwhile, Hob (the local AI desktop app) bridges AI and cloud by offering on-device inference as a privacy-preserving alternative.",
+  "cybersecurityWatch": "Two items: Cve.now, a free CVE feed designed for agent consumption, and the RCE in Atlantis, an IaC tool vulnerability. The Atlantis flaw — an approval bypass enabling unreviewed terraform applies — is a live concern for teams running Atlantis. Verify your instances are patched if you use Atlantis.",
+  "awsCloudWatch": "Hob's on-device approach is the strongest cloud signal: it eliminates cloud AI egress for inference, reducing both cost and data-exposure risk. For cloud engineers managing sensitive workloads, local-first AI tools like Hob may be worth piloting alongside cloud models.",
   "toolsPeopleAreTalkingAbout": [
     {
-      "tool": "The Goose Programming Language",
-      "whatItDoes": "A simple, memory-safe systems programming language.",
-      "whyPeopleAreDiscussingIt": "Boosted by a John Carmack tweet; discussion covers performance, design philosophy, and adoption viability.",
+      "tool": "Hob",
+      "whatItDoes": "Open-source, on-device desktop AI assistant running Gemma 4 and gpt-oss locally, with sandboxed Python, SearXNG search, and MCP support.",
+      "whyPeopleAreDiscussingIt": "171 points on a Show HN — rare for a tool launch. Privacy-focused AI with no data egress.",
       "usefulFor": "Development",
-      "officialSource": "https://aardappel.github.io/goose/"
+      "officialSource": "https://github.com/FrigadeHQ/hob"
+    },
+    {
+      "tool": "Cve.now",
+      "whatItDoes": "Free CVE feed merging CVE List, CISA KEV, EPSS, and OSV into a unified, agent-ready format with plain-English explanations.",
+      "whyPeopleAreDiscussingIt": "New tooling for automated security pipelines — no login or API key required.",
+      "usefulFor": "Cybersecurity",
+      "officialSource": "https://www.sazabi.com/blog/introducing-cve-now"
+    },
+    {
+      "tool": "Dayjob: Tax",
+      "whatItDoes": "Benchmark framework evaluating AI agents on 50 professional tax assignments across 8 practice areas with 1,789 files.",
+      "whyPeopleAreDiscussingIt": "Signals the shift from general AI benchmarks to domain-specific agent evaluation — relevant for any org deploying agents into regulated work.",
+      "usefulFor": "AI",
+      "officialSource": "https://surgehq.ai/blog/dayjob-tax"
     }
   ],
   "worthWatching": [
-    "AWS capacity constraints and their effect on pricing/migration timelines through 2027",
-    "Follow-up reporting on the Railway security incident root cause",
-    "Whether AI-ROI skepticism gains traction in enterprise budgeting discussions",
-    "Apple Security Research Device program outcomes after the Oct 30 application deadline",
-    "Goose language adoption and any Carmack follow-up"
+    "Whether Atlantis RCE prompts broader reviews of IaC approval workflow security",
+    "Cve.now adoption — will major security tooling integrate the feed?",
+    "Hob community growth and any enterprise-facing features",
+    "Dayjob: Tax benchmark methodology — will it influence AI agent procurement criteria?",
+    "Open source embargo debate fallout — any distros or foundations changing policy"
   ],
   "ideasForJase": [
-    "Write a short portfolio piece on multi-cloud capacity strategy given AWS's reported sold-out capacity — directly relevant to Junior Cloud Engineer interviews.",
-    "Use the Railway incident report as a study case for an SRE/incident-response write-up to strengthen your DevOps portfolio.",
-    "Track the Apollo AI-ROI data and reference it in AWS/architecture discussions to show commercial awareness."
+    "Write a short comparison of cloud AI vs. on-device AI (Hob) for your portfolio — touches AWS costs, data residency, and hybrid inference patterns.",
+    "Add Cve.now to your personal security automation pipeline as a practice project; demonstrates knowledge of automated vulnerability management.",
+    "Review the Atlantis RCE and write a brief checklist for IaC tool hardening — shows operational awareness for cloud engineer interviews."
   ]
 }
