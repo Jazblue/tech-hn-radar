@@ -18,28 +18,29 @@
     <p class="date">Daily intelligence research covering AI, cybersecurity, cloud, and DevOps from Hacker News.</p>
     <div id="content">Loading latest report...</div>
     <script>
-        fetch('data/hn-tech-radar/latest.json')
+        fetch("data/hn-tech-radar/latest.json")
             .then(res => res.json())
             .then(data => {
-                let html = `<h2>Report Date: ${data.publicationDate || data.researchDate}</h2>`;
-                html += `<p><em>${data.summary || ''}</em></p>`;
-                html += `<h3>Biggest Discussions</h3>`;
+                let html = "<h2>Report Date: " + (data.publicationDate || data.researchDate) + "</h2>";
+                html += "<p><em>" + (data.summary || "") + "</em></p>";
+                html += "<h3>Biggest Discussions</h3>";
                 if (data.biggestDiscussions) {
                     data.biggestDiscussions.forEach(t => {
-                        html += `<div class="topic">`;
-                        html += `<h3>${t.title} (${t.category || t.area || 'Tech'})</h3>`;
-                        html += `<p>${t.shortSummary || t.whatPeopleAreDiscussing || ''}</p>`;
-                        html += `<p><strong>Why it matters:</strong> ${t.whyItMatters || ''}</p>`;
-                        if (t.evidence) {
-                            html += `<div class="meta">Evidence: <a href="${Array.isArray(t.evidence) ? t.evidence[0] : t.evidence}" target="_blank">Link</a></div>`;
+                        html += "<div class="topic">";
+                        html += "<h3>" + (t.topic || t.title) + " (" + (t.category || t.area || "Tech") + ")</h3>";
+                        html += "<p>" + (t.shortSummary || "") + "</p>";
+                        html += "<p><strong>Why it matters:</strong> " + (t.whyItMatters || "") + "</p>";
+                        var src = t.sourceUrl || t.hnLink || "";
+                        if (src) {
+                            html += "<div class="meta"><a href="" + src + "" target="_blank">Link</a></div>";
                         }
-                        html += `</div>`;
+                        html += "</div>";
                     });
                 }
-                document.getElementById('content').innerHTML = html;
+                document.getElementById("content").innerHTML = html;
             })
             .catch(err => {
-                document.getElementById('content').innerHTML = '<p>Report data loading...</p>';
+                document.getElementById("content").innerHTML = "<p>Report data loading...</p>";
             });
     </script>
 </body>
