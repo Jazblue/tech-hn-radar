@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "area": "AI",
+    "shortSummary": "A benchmark framework that evaluates AI agents on 50 real-world professional tax assignments, measuring accuracy, reliability, and task completion rates. The project provides standardized test cases and scoring methodology for assessing how well autonomous AI agents handle complex, multi-step knowledge work.",
+    "whyItMatters": "As organizations deploy AI agents for knowledge work, standardized benchmarks are critical for comparing agent capabilities and identifying gaps before production use. Cloud and AI engineers need reliable evaluation frameworks to validate agent performance on domain-specific tasks.",
+    "hnItemLink": "https://news.ycombinator.com/item?id=50275626",
+    "externalSourceUrl": "https://surgehq.ai/blog/dayjob-tax",
+    "points": 29,
+    "numComments": 0,
+    "createdAt": "2026-10-28T15:46:30+00:00"
+  },
+  {
+    "title": "Show HN: Hob – Open-source, on-device alternative to Claude Cowork and ChatGPT",
+    "area": "Cloud",
+    "shortSummary": "A free, MIT-licensed desktop app that runs open-weight AI models (Gemma 4, gpt-oss) entirely on your own machine, with sandboxed Python code execution, built-in web search, and MCP connector support. All chats and files stay local — only web search and MCP connectors require network access.",
+    "whyItMatters": "For cloud and IT engineers managing sensitive workloads, Hob offers a privacy-preserving AI assistant that eliminates data egress concerns while maintaining Claude/ChatGPT-level functionality. It runs on existing hardware with no cloud dependency, reducing both cost and attack surface.",
+    "hnItemLink": "https://news.ycombinator.com/item?id=50246238",
+    "externalSourceUrl": "https://github.com/FrigadeHQ/hob",
+    "points": 171,
+    "numComments": 0,
+    "createdAt": "2026-10-26T16:12:29+00:00"
+  },
+  {
+    "title": "Cve.now: A free feed of security vulnerabilities for agents",
+    "area": "Cybersecurity",
+    "shortSummary": "A real-time, free vulnerability feed that aggregates and normalizes CVE data into a machine-readable format specifically designed for consumption by AI agents and automated security tooling. The service bridges the gap between raw CVE databases and actionable security intelligence.",
+    "whyItMatters": "Security teams and DevOps engineers increasingly rely on automated pipelines for vulnerability management. Having an agent-friendly CVE feed means AI-powered security tooling can ingest, triage, and respond to threats faster — critical for cloud environments where manual CVE review doesn't scale.",
+    "hnItemLink": "https://news.ycombinator.com/item?id=50237852",
+    "externalSourceUrl": "https://www.sazabi.com/blog/introducing-cve-now",
+    "points": 6,
+    "numComments": 0,
+    "createdAt": "2026-10-26T01:18:43+00:00"
+  },
+  {
+    "title": "Show HN: RCE in Atlantis",
+    "area": "DevOps",
+    "shortSummary": "A critical remote code execution vulnerability in Atlantis (the popular Terraform pull request automation tool) that allowed unreviewed terraform apply executions through a Gitea approval bypass. The flaw existed for approximately 2.5 years before being patched in October 2026.",
+    "whyItMatters": "Atlantis is a cornerstone of infrastructure-as-code workflows in many organizations. An RCE in an IaC automation tool means an attacker could potentially provision, modify, or destroy cloud resources without going through proper change control. DevOps and cloud engineers should verify their Atlantis instances are patched and review their approval workflows.",
+    "hnItemLink": "https://news.ycombinator.com/item?id=50245574",
+    "externalSourceUrl": "https://medium.com/@Vulnetic-CEO/dismissed-approval-to-rce-unreviewed-terraform-apply-in-atlantis-e2a991694a41",
+    "points": 3,
+    "numComments": 0,
+    "createdAt": "2026-10-26T15:37:56+00:00"
+  },
+  {
+    "title": "Dear Open Source Developers: It's OK Not to Embargo",
+    "area": "Developer",
+    "shortSummary": "A candid piece arguing that open source maintainers should not feel pressured to embargo security vulnerabilities before public disclosure. The author contends that forced embargoes harm users, create unnecessary complexity, and that responsible disclosure without embargoes is both feasible and better for the ecosystem.",
+    "whyItMatters": "Cloud and DevOps teams depend on open source software for everything from Kubernetes to Terraform providers. Understanding the disclosure debate helps engineers make informed decisions about their own vulnerability management policies and contributes to healthier open source ecosystem participation.",
+    "hnItemLink": "https://news.ycombinator.com/item?id=50259072",
+    "externalSourceUrl": "https://opensourcesecurity.io/2026/10-embargo/",
+    "points": 4,
+    "numComments": 0,
+    "createdAt": "2026-10-27T13:35:04+00:00"
+  }
+]
