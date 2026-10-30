@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Launch HN: Dedalus Labs (YC S25) – Vercel for Agents",
+    "area": "AI",
+    "shortSummary": "Dedalus Labs is a cloud platform that lets developers connect any LLM to any MCP tools without Dockerfiles or YAML configs. It provides OpenAI-compatible SDKs so you can drop MCP-powered LLMs directly into your codebase, reducing setup from weeks to minutes.",
+    "whyItMatters": "MCP deployment and auth remain one of the biggest friction points for production AI agents. A managed platform abstracting the infra layer — similar to how Vercel solved serverless web deployment — could accelerate agent adoption across the industry.",
+    "hnLink": "https://news.ycombinator.com/item?id=45054040",
+    "externalUrl": "https://www.dedaluslabs.ai/"
+  },
+  {
+    "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+    "area": "AI",
+    "shortSummary": "Screenpipe records your screen and audio locally, giving AI agents a searchable memory of what you've done on your computer. It turns this contextual history into automation-ready knowledge, enabling agents to understand your daily workflows and build SOPs.",
+    "whyItMatters": "Agents lack persistent, real-world context about what you actually do. Screenpipe addresses the gap between static tool-calling agents and ones that understand your environment over time. The YC-backed approach to local-first recording raises both capability and privacy questions worth watching.",
+    "hnLink": "https://news.ycombinator.com/item?id=49024620",
+    "externalUrl": "https://screenpipe.com"
+  },
+  {
+    "title": "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
+    "area": "Cybersecurity",
+    "shortSummary": "Gecko Security uses LLMs with a custom compiler-accurate code indexer to find complex business logic and multi-step vulnerabilities that traditional SAST tools miss. They've already found 30+ CVEs in projects like Ollama, Gradio, and Ragflow.",
+    "whyItMatters": "Traditional SAST tools miss entire classes of vulnerabilities like AuthN/Z bypasses and privilege escalations because they rely on regex/pattern matching. An LLM-powered approach with accurate code navigation could fundamentally improve vulnerability detection for teams managing cloud-native infrastructure and open-source dependencies.",
+    "hnLink": "https://news.ycombinator.com/item?id=44747204",
+    "externalUrl": "https://www.gecko.security"
+  },
+  {
+    "title": "AI coding agents accidentally introduced vulnerable dependencies",
+    "area": "Cybersecurity",
+    "shortSummary": "A developer reports discovering a cryptominer on a Next.js server where AI-assisted tools (Claude Code and OpenAI Codex) accidentally pinned a vulnerable dependency version via CVE-2025-29927, a middleware bypass vulnerability. The breach chain: AI-generated project -> vulnerable dependency -> exploitation -> cryptominer.",
+    "whyItMatters": "This highlights a critical operational risk: AI coding agents increase development speed but also create 'security debt' when they pin vulnerable dependency versions. Teams relying on vibe coding need automated security gates and dependency scanning in their CI/CD pipelines to catch what AI introduces.",
+    "hnLink": "https://news.ycombinator.com/item?id=47387054",
+    "externalUrl": ""
+  },
+  {
+    "title": "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience",
+    "area": "Developer",
+    "shortSummary": "Gauge CLI is an open-source tool for optimizing agent-facing surfaces — Skills, CLIs, SDKs, and docs — so that coding agents like Claude Code and Codex can easily use your product. It runs local Docker-based agent harnesses to find where agents get confused or stuck.",
+    "whyItMatters": "As more workflows shift to agent-driven development, tool interoperability with AI agents becomes a competitive moat. Gauge addresses the emerging need to test and optimize how well your CLI, SDK, or MCP server works when used by an agent rather than a human — a concern growing in importance for dev tool vendors.",
+    "hnLink": "https://news.ycombinator.com/item?id=50170201",
+    "externalUrl": "https://github.com/gauge-sh/gauge-cli"
+  }
+]
